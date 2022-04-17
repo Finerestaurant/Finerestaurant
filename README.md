@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Finerestaurant from korea🇰🇷
-- 🏫 I studied in Japan🇯🇵
-- 👀 I’m interested in DSP, Audio Processing, Musical Ai.
+- 🏫 I studied in Japan🇯🇵, Global management.
+- 👀 I’m interested in DSP, Audio Processing, Music Ai.
 - 🌱 I’m currently learning everything about Audio with python.
-- 📫 How to reach me anthonypark6904@gmail.com
+- 🎸 My favorite ar
+- 📫 You can message me anytime. anthonypark6904@gmail.com
 - 📜 Here's my portfolio. [Finerestaurant.github.io/Finerestaurant](Finerestaurant.github.io/Finerestaurant)
 
 <!---
